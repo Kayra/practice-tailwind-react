@@ -2,6 +2,12 @@
 
 Using [Sebastian's tutorial](https://medium.com/codingthesmartway-com-blog/how-to-use-tailwind-css-with-react-9dd78bbdc0e0)
 
+Technologies used:
+
+- node: v18.9.0
+- npm/npx : 8.19.1
+- 
+
 ## Start a Tailwind React project
 
 Create the initial React project:
@@ -51,10 +57,10 @@ function App() {
   return (
     <div className="container mx-auto bg-gray-200 rounded-xl shadow border p-8 m-10">
       <p className="text-3xl text-gray-700 font-bold mb-5">
-        Welcome!
+        It works!
       </p>
       <p className="text-gray-500 text-lg">
-        React and Tailwind CSS in action
+        React and Tailwind CSS are now operational.
       </p>
     </div>
   );
