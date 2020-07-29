@@ -1,12 +1,11 @@
 # pratice-tailwind-react
 
-Using [Sebastian's tutorial](https://medium.com/codingthesmartway-com-blog/how-to-use-tailwind-css-with-react-9dd78bbdc0e0)
+A short introduction into setting up and using Tailwind with React pulled mostly from the [Tailwind docs](https://tailwindcss.com/docs/guides/create-react-app).
 
 Technologies used:
 
 - node: v18.9.0
 - npm/npx : 8.19.1
-- 
 
 ## Start a Tailwind React project
 
