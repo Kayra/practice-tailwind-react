@@ -1,6 +1,8 @@
 # pratice-tailwind-react
 
-A short introduction into setting up and using Tailwind with React pulled mostly from the [Tailwind docs](https://tailwindcss.com/docs/guides/create-react-app).
+A short introduction into setting up and using Tailwind with React pulled mostly from the [Tailwind docs](https://tailwindcss.com/docs/guides/create-react-app). (I made this before using it for my [spotify-tools](https://github.com/Kayra/spotify-tools) project). 
+
+[Tailwind](https://tailwindcss.com/) is a CSS framework and [React](https://reactjs.org/) is a framework used to build user interfaces in the browser.
 
 Technologies used:
 
