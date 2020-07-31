@@ -75,6 +75,16 @@ Run the server to see Tailwind in action:
 npm run start
 ```
 
+The rendered page should be loaded at [http://localhost:3000/](http://localhost:3000/):
+
+![how it should look](./docs/how_it_should_look.png)
+
+---
+
+It is also possible to use the [images](example-tailwind-react-app/src/assets) and [code](example-tailwind-react-app/src/App.js) from the example project (or run the example React app) to render an example Tailwind timeline:
+
+![how it should look with timeline](./docs/how_it_should_look_with_timeline.png)
+
 ## Useful Commands
 
 Generate a Tailwind build:
